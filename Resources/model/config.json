@@ -1,7 +1,7 @@
 
 {
   "path": {
-    "modelPath": "/live2d-widget-v3/Resources/yumi",
+    "modelPath": "/live2d-widget-v3/Resources/model/yumi",
     "cssPath": "https://cdn.jsdelivr.net/gh/alipoi/live2d-widget-v3@main/waifu.css",
     "tipsJsonPath": "https://cdn.jsdelivr.net/gh/alipoi/live2d-widget-v3@main/waifu-tips.json",
     "tipsJsPath": "https://cdn.jsdelivr.net/gh/alipoi/live2d-widget-v3@main/waifu-tips.js"
