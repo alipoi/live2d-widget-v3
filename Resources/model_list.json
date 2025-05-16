@@ -1,9 +1,9 @@
 
 {
     "models": [
-        ["yumi", "Hiyori", "Mao","Mark","Rice"]
+        ["yumi", "Hiyori", "Mao","Rice"]
     ],
     "messages": [
-        ["你好，我是yumi", "你好，我是Hiyori", "你好，我是Mao", "你好，我是Mark", "你好，我是Rice"]
+        ["你好，我是yumi", "你好，我是Hiyori", "你好，我是Mao", "你好，我是Rice"]
     ]
 }
