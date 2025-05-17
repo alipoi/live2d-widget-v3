@@ -1,9 +1,9 @@
 
 {
   "path": {
-    "modelPath": "/live2d-widget-v3/Resources/model/yumi",
-    "cssPath": "https://cdn.jsdelivr.net/gh/alipoi/live2d-widget-v3@main/waifu.css",
-    "tipsJsonPath": "https://cdn.jsdelivr.net/gh/alipoi/live2d-widget-v3@main/waifu-tips.json",
-    "tipsJsPath": "https://cdn.jsdelivr.net/gh/alipoi/live2d-widget-v3@main/waifu-tips.js"
+    "modelPath": "/live2d-widget-v3/Resources/",
+    "cssPath": "/live2d-widget-v3/waifu.css",
+    "tipsJsonPath": "/live2d-widget-v3/waifu-tips.json",
+    "tipsJsPath": "/live2d-widget-v3/waifu-tips.js"
   }
 }
